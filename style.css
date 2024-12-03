@@ -1,7 +1,7 @@
 
 /* Background image for the page */
 body {
-    background-image: url(/images/skyimg.jpg); /* Replace with your desired image URL */
+    background-image: url(skyimg.jpg); /* Replace with your desired image URL */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
